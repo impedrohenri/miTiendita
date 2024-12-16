@@ -1,0 +1,12 @@
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -95px;
+    gap: 10px;
+}
+
+.imgCarregando{
+    width: 100px;
+}

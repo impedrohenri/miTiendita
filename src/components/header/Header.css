@@ -1,0 +1,19 @@
+.navbar{
+    margin-bottom: 40px;
+}
+
+.imgLogo{
+    width: 35px;
+    height: 35px;
+    border-radius: 4px;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
+
+.imgPesquisar{
+    width: 25px;
+    margin: -5px;
+    margin-top: -7px;
+}

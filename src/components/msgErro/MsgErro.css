@@ -1,0 +1,13 @@
+.content{
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -95px;
+    gap: 10px;
+}
+
+
+
+.imgErro{
+    width: 100px;
+}
